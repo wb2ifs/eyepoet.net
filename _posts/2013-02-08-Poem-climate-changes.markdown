@@ -6,7 +6,7 @@ background: '/img/posts/BACKground.jpg'
 categories: poem
 author: Omawole Jesse Alexander
 ---
-2/8/2013 (read during Earthday 2013 service at [Davies Memorial Unitarian Universalist Church](https://www.dmuuc.org))
+2/8/2013 (read during arthday 2013 service at [Davies Memorial Unitarian Universalist Church](https://www.dmuuc.org))
 
 Santa ain't coming  
 this year  
